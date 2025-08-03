@@ -1,5 +1,5 @@
-lista = [1,2,3,4,5,6,7,8,9,10]
-lista.append(11)
-lista.remove(1)
-lista.sort(reverse=True)
-print (lista)
+numeros = [1,2,3,4,5,6,7,8,9,10]
+numeros.append(11)
+numeros.remove(1)
+numeros.sort(reverse=True)
+print (numeros)

@@ -1,0 +1,6 @@
+nota = float(input("Ingrese una nota de 1 al 100 "))
+if nota >= 90:print("A")
+elif nota>= 80 < 90:print("B")
+elif nota >= 70 < 80:print("C")
+elif nota >= 60 < 70:print("D")
+else:print("F")
